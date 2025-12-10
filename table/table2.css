@@ -1,0 +1,186 @@
+
+*{
+    background-color: black;
+
+}
+
+
+
+
+
+
+    div{
+    height: 40px;
+    width: 425px;
+    background-color: aqua;
+    text-align: center;
+    text-transform:capitalize ;
+    text-shadow: 1px 1px crimson;
+   font-style: italic;
+   font-weight: bold;
+   word-spacing: 1px;
+   border: 3px solid black;
+   border-style: double;
+   text-transform: capitalize;
+box-shadow: 4px 6px 4px  4px rgb(13, 169, 169);
+text-align: center;
+
+
+
+
+cursor: pointer;
+
+   
+
+  
+    
+}
+.two{
+    background-color: chartreuse;
+    height:20px;
+    width:99px;
+  display: inline-block
+  ;
+
+    
+}
+.three{
+    background-color: chocolate;
+    height: 20px;
+    width: 99px; 
+    display: inline-block
+    ;
+ 
+  
+
+    
+}
+.four{
+    height: 19px;
+    width: 97px;
+    background-color: rgb(42, 165, 71);
+    display: inline-block;
+   
+padding: 1px;
+
+
+}
+.five{
+    height: 20px;
+    width:99px;
+    display: inline-block;
+    background-color: brown;
+
+}
+.six{
+    height: 20px;
+    width: 99px;
+    background-color: coral;
+    display: inline-block;
+  
+}
+.seven{
+    height: 20px;
+    width: 99px;
+    background-color: crimson;
+    display: inline-block;
+   
+}
+.eight{
+    width:99px;
+    height: 20px;
+    background-color: cadetblue;
+    display: inline-block;
+  
+}
+.nine{
+    width: 99px;
+    height: 20px;
+    display: inline-block;
+    background-color: hotpink;
+}
+.ten{
+    width: 99px;
+    height: 20px;
+    background-color: darkcyan;
+    display: inline-block;
+}
+.ele{
+    width: 99px;
+    height: 20px;
+    background-color: darkgreen;
+    display: inline-block;
+    display: inline-block;
+}
+.twe{
+width: 99px;
+height: 20px;
+background-color: darkgoldenrod;
+display: inline-block;
+
+
+
+
+
+}
+.thir{
+    width: 99px;
+    height: 20px;
+    background-color: darkkhaki;
+    display: inline-block;
+}
+.fout{
+    width: 99px;
+    height: 20px;
+    background-color: darkorchid;
+       display: inline-block;
+}
+.fiv{
+    width: 99px;
+    height: 20px;
+    background-color: darksalmon;
+    display: inline-block;
+}
+.sixt{
+    width: 99px;
+    height: 20px;
+    background-color: lightcoral;
+       display: inline-block;
+}
+.sevent{
+    width: 99px;
+    height: 20px;
+    background-color: aqua;
+    display: inline-block;
+}
+.eig{
+    width: 99px;
+    height: 20px;background-color: darksalmon;
+    display: inline-block;
+
+}
+.nin{
+    width: 99px;
+    height: 20px;
+    background-color: gold;
+    display: inline-block;
+}
+.twen{
+width: 99px;
+height: 20px;
+background-color: gray;
+display:inline-block;
+}
+.tweno{
+    width: 99px;
+    height: 20px; 
+    background-color: fuchsia;
+    display: inline-block;
+}
+.flower{
+position: absolute;
+right: 10px;
+bottom: 10px;
+z-index: -11;
+}
+
