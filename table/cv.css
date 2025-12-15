@@ -1,0 +1,257 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-size: 0;
+    color: azure;
+ 
+    
+    
+}
+
+
+
+
+.cv{
+    width: 220px;
+    height: 200px;
+    background-color:black
+     ;
+
+
+
+    
+}
+.aa{
+    
+     border: 1px solid white;
+     border-radius: 100px ;
+
+}
+
+
+.intro{
+    width: 220px;
+    height: 50px;
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    text-transform:lowercase ;
+    text-align: center;
+    display: inline-block;
+
+}
+.cvone{
+    width: 220px;
+    height: 622px;
+    background-color: black;
+    font-size:50px ;
+    display: inline-block;
+    position: absolute;
+    top: 248px;
+    left: 1px;
+    font-family: arial;
+
+    
+}
+address,p.me{
+ 
+font-family: arial;
+    font-size: 10px;
+    color: aliceblue;
+    font-style: italic;
+    text-transform: capitalize;
+text-align: start;
+display: inline-block;
+
+
+}
+
+h1,div.me{
+font-size: 20px;
+font-style: italic;
+    text-transform: lowercase
+    ;
+    display: inline-block;
+ font-family: arial;
+
+}
+.myinterest{
+    font-size: 20px;
+    text-transform: capitalize;
+       background-color: black;
+
+}
+.bat{
+background-color: aliceblue;
+}
+.profession{
+    width: 300px;
+    height: 850px;
+    background-color:gray;
+    display: inline-block;
+    position: absolute;
+    top: 0px;
+       
+   
+    box-shadow: 10px 10px 10px 10px black;
+}
+.experience{
+    width: 150px;
+    height: 30px;
+    background-color: black;
+    color: beige;
+    font-size: 20px;
+    box-shadow: 10px 10px 10px 10px black;
+    text-transform: capitalize;
+    display: inline-block;
+    margin-top: 9px;
+
+    
+}
+.exp{
+    color: aliceblue;
+    font-size: 10px;
+    display: inline;
+    font-style: italic;
+    
+
+}
+p.exper{
+    display: inline;
+     color: aliceblue;
+     font-size: 10px;
+     text-align: end;
+        font-style: italic;
+
+}
+.education{
+    color: aliceblue;
+    font-size: 20px;
+    width: 150px;
+    height: 30px;
+    display: inline-block;
+    text-transform: capitalize;
+    background-color: black;
+     box-shadow: 10px 10px 10px 10px black;
+     margin-bottom:7px;
+     margin-top: 9px;
+}
+.cvtw{
+
+    width: 215px;
+    height: 200px;
+    background-color: black;
+
+    position:absolute ;
+  left: 609px;
+    top: 3px;
+}
+
+
+.introd{
+    width: 220px;
+    height: 50px;
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    text-transform: capitalize;
+    text-align: center;
+    display: inline-block;
+position: absolute;
+left: 602px;
+top: 200px;
+
+
+}
+
+.box{
+    width: 220px;
+    height: 600px;
+    background-color: black;
+    font-size:50px ;
+    display: inline-block;
+    position: absolute;
+    top: 250px;
+    left: 602px;
+    box-shadow:10px 10px 10px 10px gray;
+font-style: italic;
+    font-size: 20px;
+    text-transform: capitalize;
+
+}
+
+.work{
+    width: 300px;
+    height: 850px;
+    background-color: gray;
+    display: inline-block;
+    position: absolute;
+    top: 0px;
+    left: 820px;
+    box-shadow:10px 10px 10px 10px black;
+
+  
+}
+.img{
+
+    position: absolute;
+    top: 50px;
+    left:480px ;
+    height:600px ;
+}
+
+ .skill{
+    
+    color: aliceblue;
+    font-size: 20px;
+    width: 150px;
+    height: 30px;
+display: inline-block;
+    text-transform: capitalize;
+    background-color: black;
+
+     box-shadow: 10px 10px 10px 10px black;
+     margin-bottom:6px;
+     margin-top: 9px;
+}
+a.meo{
+    font-size: 10px;
+
+    
+    color: aliceblue;
+    font-style: italic;
+    text-transform: capitalize;
+text-align: start;
+}
+.refer{
+    width: 150px;
+    height: 30px;
+    font-size: 20px;
+    color: aliceblue;
+  display: inline-block;
+    text-transform: capitalize;
+text-align: start;
+margin-top: 5px;
+    background-color: black;
+     box-shadow: 10px 10px 10px 10px black;
+     margin-bottom:9px;
+}
+
+
+
+.meoo{
+font-size: 10px;
+margin-top: 9px;
+display: inline-block;
+font-style: italic;
+}
+.works{
+    font-size: 10px;
+    text-align: start;
+}
+
+
+
+
+
+
